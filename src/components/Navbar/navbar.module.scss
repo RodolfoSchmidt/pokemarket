@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  background-color: bisque;
+  color: black;
+  justify-content: space-around;
+
+  img:hover {
+    background-color: aqua;
+  }
+}
